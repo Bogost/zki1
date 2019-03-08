@@ -16,6 +16,12 @@ public class JavaTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        policz(2,4);
+    }
+    
+    public static void policz(int a, int b)
+    {
+        System.out.println( (a + b) );
     }
     
 }
